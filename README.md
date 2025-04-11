@@ -26,7 +26,7 @@
 ### 📫 Let's Connect
 
 - Telegram: [@miraziz_mirzayev](https://t.me/miraziz_mirzayev)
-- Email: mirmirza440@gamil.com
+- Email: mirmirza440@gmail.com
 
 ---
 
