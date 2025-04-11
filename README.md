@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hello, I'm Miraziz
 
-<!--
-**Miraziz-701/Miraziz-701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 1-year-old self-taught backend developer from Uzbekistan with a passion for building scalable and efficient web applications. Currently focused on becoming a **Junior Backend Developer**.
 
-Here are some ideas to get you started:
+💡 I enjoy working with Python and exploring the power of frameworks like Django and FastAPI. I'm also diving into databases and API development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+- 💻 Languages: Python, JavaScript, HTML, CSS, SQL
+- ⚙️ Frameworks & Tools: Django, FastAPI, Aiogram, Bootstrap
+- 🗄️ Databases: PostgreSQL, SQLite3, Docker
+- 🔧 Other Tools: Git, GitHub
+
+---
+
+### 🌱 Currently Working On
+
+- 🏦 Developing an online banking system with Python
+- 📈 Improving my English to prepare for the SAT (currently focused on grammar & punctuation)
+- 📢 Building my personal brand and Telegram channel as an expert
+
+---
+
+### 📫 Let's Connect
+
+- Telegram: [@miraziz_mirzayev](https://t.me/miraziz_mirzayev)
+- Email: mirmirza440@gamil.com
+
+---
+
+> "Coding is not just about writing lines of code, it's about solving real-world problems and creating impact."  
