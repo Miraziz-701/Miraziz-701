@@ -32,13 +32,7 @@
 
 > "Coding is not just about writing lines of code, it's about solving real-world problems and creating impact."  
 
-<img src="https://raw.githubusercontent.com/Miraziz-701/Miraziz-701/output/snake.svg" alt="Snake animation" />
 
-###
-
-<img src="https://raw.githubusercontent.com/Miraziz-701/Miraziz-701/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
 
