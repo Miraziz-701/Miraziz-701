@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Miraziz
 
-🎓 I'm a 1-year-old self-taught backend developer from Uzbekistan with a passion for building scalable and efficient web applications. Currently focused on becoming a **Junior Backend Developer**.
+🎓 I'm a 16 years old self-taught backend developer from Uzbekistan with a passion for building scalable and efficient web applications. Currently focused on becoming a **Junior Backend Developer**.
 
 💡 I enjoy working with Python and exploring the power of frameworks like Django and FastAPI. I'm also diving into databases and API development.
 
